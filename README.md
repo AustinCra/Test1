@@ -2,7 +2,7 @@
 
 <h1>Project List</h1>
 <ul>
-  <li><a href="Lecture2/Index.html" target="_blank">Lab 2</a>
+  <li><a href="lecture2/Index.html" target="_blank">Lab 2</a>
 </ul>
 
 

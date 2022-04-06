@@ -12,8 +12,6 @@ img {
 }
 
 .main img {
-    margin-left: 10px auto;
-    margin-right: 10px auto;
     padding: 10px 10px 10px 10px;
     width: 80%;
 }

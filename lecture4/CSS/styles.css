@@ -25,7 +25,7 @@ header {
 
 header h1 {
     color: black;
-    text-shadow: 2px 2px 2px 2px;
+    text-shadow: 2px;
     text-align: center;
 }
 
@@ -101,7 +101,7 @@ section img, aside img {
 
 .button:hover {
     background-color: red;
-    text-shadow: black;
+    text-shadow: 2px black;
 }
 
 footer {
@@ -208,7 +208,7 @@ table {
     }
 
     .col {
-        width: 90%;
+        width: 80%;
     }
 
     .col img {

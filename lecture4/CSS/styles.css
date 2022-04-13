@@ -100,7 +100,6 @@ section img, aside img {
 
 .button:hover {
     background-color: red;
-    text-shadow:black;
 }
 
 footer {

@@ -13,8 +13,9 @@ img {
 
 #container {
     background-color: yellowgreen;
-    margin: 10px;
+    margin: 30px;
 }
+
 
 header {
     background-image: url('../images/cliff.jpeg');
@@ -57,7 +58,7 @@ nav li a:hover {
 
 nav, section, aside, .col, footer {
     background-color: khaki;
-    padding: 20px;
+    padding: 10px;
     margin: 10px;
     font-size: 1.5em;
     border: 4px solid darkred;
@@ -156,7 +157,7 @@ table {
     }
 
     aside img {
-        width: 50%;
+        width: 80%;
     }
 
     .col img {
@@ -168,6 +169,8 @@ table {
     .single_col {
         width: 80%;
     }
+
+ 
 
     audio, video {
         display: block;

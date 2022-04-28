@@ -96,7 +96,7 @@ footer {
 }
 
 table {
-    display: none;
+    max-width: 80%;
 }
 
 /*Tablet Syles */

@@ -95,10 +95,6 @@ footer {
     width: 83%;
 }
 
-table {
-    max-width: 80%;
-}
-
 /*Tablet Syles */
 
 @media(min-width: 768px) {
@@ -178,10 +174,6 @@ table, tr, td {
     border: 4px solid darkgrey;
     padding: 1px;
     margin: 5px;
-}
-
-table img {
-    width: 100%;
 }
 
 .gallery {

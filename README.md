@@ -10,6 +10,6 @@
 </ul>
 
 <ul>
-  <li><a href="Final Project/Index.html" target="_blank">FInal Project</a></li>
+  <li><a href="Final Project/Index.html" target="_blank">Final Project</a></li>
 </ul>
 

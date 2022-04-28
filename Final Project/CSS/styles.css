@@ -114,16 +114,6 @@ table {
         padding: 5px;
     }
 
-    nav li {
-        display: inline-block;
-    }
-
-    nav li a{
-        height: 50px;
-        line-height: 50px;
-        width: 200px;
-    }
-
     #upper_flex {
         display: flex;
     }
@@ -172,10 +162,6 @@ table {
         border-radius: 20px 20px 0 0;
     }
 
-    nav li a {
-        margin: 0 20px;
-    }
-
     #lower_flex {
         display: flex;
     }
@@ -186,11 +172,6 @@ table {
 
     .col img {
        width: 85%; 
-    }
-
-    .single_col {
-        width: 100%;
-        margin: 10px auto;
     }
 
 table, tr, td {

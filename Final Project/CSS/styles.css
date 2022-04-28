@@ -126,6 +126,7 @@ footer {
         border: 4px solid darkgrey;
         padding: 1px;
         margin: 5px;
+        width: 100%;
     }
     
 
@@ -194,6 +195,7 @@ table, tr, td {
     border: 4px solid darkgrey;
     padding: 1px;
     margin: 5px;
+    width: 100%;
 }
 
 }

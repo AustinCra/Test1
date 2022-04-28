@@ -10,9 +10,7 @@ img {
 }
 
 table, tr, td {
-    border: 4px solid darkgrey;
-    padding: 1px;
-    margin: 5px;
+  display: none;
 }
 
 
